@@ -1,0 +1,41 @@
+
+
+.heading{
+    text-align: center;
+    text-shadow: 50px;
+    background-color: antiquewhite;
+    border: 2px solid black;
+}
+
+.image{
+    /* border-image-repeat: repeat; */
+    border: 2px ;
+    width: 500;
+    height: 500px;
+
+}
+.video{
+    width: 800px;
+    height: 500px;
+   
+}
+
+.footer{
+    border: 2px;;
+    background-color: black;
+    height: 100px;
+    text-align: right;
+    color: white;
+    padding: top;
+    padding-left: 20px;
+    
+}
+
+.fa-spotify{
+    color: green;
+
+}
+
+.fa-youtube-play{
+    color: red;
+}
