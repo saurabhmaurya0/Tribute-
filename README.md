@@ -1,3 +1,4 @@
+<img align="right" alt="Coding" width="400"  src="https://thumbs.gfycat.com/BetterFalseKid-max-1mb.gif">
 <h1 align="center">Hi 👋, I'm SAURABH MAURYA</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
