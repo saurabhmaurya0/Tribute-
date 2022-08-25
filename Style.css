@@ -15,7 +15,7 @@
 .image{
     /* border-image-repeat: repeat; */
     border: 2px ;
-    width: 500px;
+    width: 322px;
     height: 500px;
 
 }
@@ -31,12 +31,10 @@
     border: 2px;;
     background-color: black;
     height: 100px;
-    text-align: right;
-    color: white;
-    padding: top;
-    padding-left: 20px;
-    
+    text-align: center;
+    color: white; 
 }
+
 .div-content{
     width: 100%;
     height: auto;
@@ -47,8 +45,6 @@
 
 .fa-spotify{
     color: green;
-    
-
 }
 
 .fa-youtube-play{
