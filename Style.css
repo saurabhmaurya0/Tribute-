@@ -7,6 +7,53 @@ body{
     width: 100%;
     height: auto;
 }
+.container{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    flex-wrap: wrap;
+    background: linear-gradient(45deg, black, #2c3c4a);
+    margin: 5px;
+    padding: 10px;
+    
+}
+.box1{
+    /* border: 2px solid black;
+    height: 50px;
+    width: 50px; */
+
+}
+.box2{
+    /* border: 2px solid black;
+    height: 50px;
+    width: 50px; */
+
+}
+.box3{
+    /* border: 2px solid black;
+    height: 50px;
+    width: 50px; */
+
+}
+.box4{
+    /* border: 2px solid black;
+    height: 50px;
+    width: 50px; */
+
+}
+.box5{
+    /* border: 2px solid black;
+    height: 50px;
+    width: 50px; */
+
+}
+.box6{
+    /* border: 2px solid black;
+    height: 50px;
+    width: 50px; */
+
+}
+
 
 .heading{
     text-align: center;
@@ -27,6 +74,12 @@ body{
     width: 100%;
 }
 
+.contentt{
+    word-spacing: 5px;
+    margin-right: 10px;
+    padding: 10px;
+}
+
 .footer{
     border: 2px;;
     background-color: black;
@@ -34,11 +87,8 @@ body{
     text-align: center;
     color: white; 
 }
-
-.div-content{
-    word-spacing: 5px;
-    margin-right: 10px;
-    padding: 10px;
+.f-content> p{
+    padding: 15px;
 }
 
 .fa-spotify{
