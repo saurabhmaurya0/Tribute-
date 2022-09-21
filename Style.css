@@ -1,100 +1,122 @@
-*{
-    padding: 0;
-    margin: 0;
-    box-sizing: border-box;
-}
-body{
-    width: 100%;
-    height: auto;
-}
-.container{
-    display: flex;
-    align-items: center;
-    justify-content: space-between;
-    flex-wrap: wrap;
-    background: linear-gradient(45deg, black, #2c3c4a);
-    margin: 5px;
-    padding: 10px;
-    
-}
-.box1{
-    /* border: 2px solid black;
-    height: 50px;
-    width: 50px; */
-
-}
-.box2{
-    /* border: 2px solid black;
-    height: 50px;
-    width: 50px; */
-
-}
-.box3{
-    /* border: 2px solid black;
-    height: 50px;
-    width: 50px; */
-
-}
-.box4{
-    /* border: 2px solid black;
-    height: 50px;
-    width: 50px; */
-
-}
-.box5{
-    /* border: 2px solid black;
-    height: 50px;
-    width: 50px; */
-
-}
-.box6{
-    /* border: 2px solid black;
-    height: 50px;
-    width: 50px; */
-
+body {
+  margin: 0%;
+  padding: 0%;
+  width: 100%;
+  background: #ba5370;
+  background: -webkit-linear-gradient(to bottom, #f4e2d8, #ba5370);
+  background: linear-gradient(to bottom, #f4e2d8, #ba5370);
 }
 
-
-.heading{
-    text-align: center;
-    text-shadow: 50px;
-    background-color: antiquewhite;
-    border: 2px solid black;
+.banner {
+  background-image: url(https://www.digitalmusicnews.com/wp-content/uploads/2022/09/fiona-apple-music-suddenly-removed-from-tiktok-feat.jpg);
+  height: 500px;
+  background-repeat: no-repeat;
+  background-size: cover;
+  color: white;
+  margin: 0%;
 }
 
-.image{
-    /* border-image-repeat: repeat; */
-    border: 2px ;
-    width: 320px;
-    height: 500px;
+.banner>h1 {
+  margin: 0%;
+  padding-top: 180px;
+  font-size: 63px;
+  padding-left: 20px;
 }
 
-.video{
-    height: 500px;
-    width: 100%;
+.banner>i {
+  font-size: 33px;
+  padding-left: 20px;
 }
 
-.contentt{
-    word-spacing: 5px;
-    margin-right: 10px;
-    padding: 10px;
+#abouth {
+  margin-left: 20px;
+  margin-top: 8px;
+  margin-right: 16px;
+  margin-bottom: 0px;
+  /* background-color: #d08096; */
+  background-size: contain;
+  border-radius: 5px 5px 0px 0px;
 }
 
-.footer{
-    border: 2px;;
-    background-color: black;
-    height: 100px;
-    text-align: center;
-    color: white; 
-}
-.f-content> p{
-    padding: 15px;
+.containerabout {
+  display: flex;
+  justify-content: space-around;
+  width: auto;
+  align-items: center;
+  text-align: justify;
+  padding-bottom: 10px;
+  background-color: #d08096;
+  border-radius: 10px;
+  margin-bottom: 10px;
+  margin-left: 10px;
+  margin-right: 10px;
+  font-size: 17px;
 }
 
-.fa-spotify{
-    color: green;
+.child2 {
+  width: 73%;
 }
 
-.fa-youtube-play{
-    color: red;
+.img1 {
+  width: 23vw;
+  height: 230px;
+  float: right;
+  border: 2px solid #ddd;
+  border-radius: 5px;
+}
+
+.container {
+  display: flex;
+  justify-content: space-around;
+  width: 100%;
+  align-items: center;
+  text-align: justify;
+  padding-bottom: 10px;
+}
+
+.awards {
+  border-radius: 10px;
+  background-color: #b5f3df;
+  padding-right: 15px;
+  box-shadow: 1px 1px 15px whitesmoke;
+}
+
+.child {
+  width: 25%;
+}
+
+#ah {
+  margin-left: 20px;
+}
+
+.img2 {
+  width: 100%;
+  border: 2px solid #ddd;
+  border-radius: 5px;
+}
+
+.suddenly {
+  border-radius: 10px;
+  background-color: #b5f3df;
+  padding-right: 15px;
+  box-shadow: 1px 1px 15px whitesmoke;
+}
+
+.foot {
+  border: 2px;
+  background-color: black;
+  height: 100px;
+  color: white;
+  text-align: center;
+}
+.f-content>p {
+  padding: 15px;
+}
+
+.fa-spotify {
+  color: green;
+}
+
+.fa-youtube-play {
+  color: red;
 }
